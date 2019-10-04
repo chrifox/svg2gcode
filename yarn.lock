@@ -152,10 +152,9 @@ gauge@~2.7.3:
     strip-ansi "^3.0.1"
     wide-align "^1.1.0"
 
-gcanvas@0.0.*:
+gcanvas@chrifox/gcanvas:
   version "0.0.37"
-  resolved "https://registry.yarnpkg.com/gcanvas/-/gcanvas-0.0.37.tgz#039ddb6bae7bbbd980b312b3d73db952ce3367af"
-  integrity sha1-A53ba657u9mAsxKz1z25Us4zZ68=
+  resolved "https://codeload.github.com/chrifox/gcanvas/tar.gz/dba5a4a317a85eb52066360f388957c66df3fba0"
   dependencies:
     commander "2.0.0"
 

@@ -8,7 +8,7 @@
   "dependencies": {
     "canvg": "0.0.6",
     "commander": "^2.5.0",
-    "gcanvas": "0.0.*"
+    "gcanvas": "chrifox/gcanvas"
   },
   "repository": {
     "type": "git",
@@ -16,9 +16,7 @@
   },
   "keywords": [
     "svg",
-    "gcode",
-    "cnc",
-    "milling"
+    "gcode"
   ],
   "author": "Emery Denuccio",
   "license": "MIT"

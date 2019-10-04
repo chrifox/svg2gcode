@@ -1,6 +1,6 @@
 svg2gcode
 ========
-A command line utility for converting SVG to Gcode using 
+A command line utility for converting SVG to Gcode using
 [canvg](https://code.google.com/p/canvg/) and [Gcanvas](https://github.com/em/gcanvas).
 
 ### Installation
