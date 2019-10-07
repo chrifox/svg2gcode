@@ -154,7 +154,7 @@ gauge@~2.7.3:
 
 gcanvas@chrifox/gcanvas:
   version "0.0.37"
-  resolved "https://codeload.github.com/chrifox/gcanvas/tar.gz/dba5a4a317a85eb52066360f388957c66df3fba0"
+  resolved "https://codeload.github.com/chrifox/gcanvas/tar.gz/a85b730b9d0e164bc783d7402207e593790d1b32"
   dependencies:
     commander "2.0.0"
 
