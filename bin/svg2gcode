@@ -26,9 +26,7 @@ if(program.depth) gctx.depth = program.depth;
 if(program.depthofcut) gctx.depthOfCut = program.depthofcut;
 if(program.top) gctx.top = program.top;
 if(program.above) gctx.aboveTop = program.above;
-if(program.tooldiameter) {
-	gctx.toolDiameter = program.tooldiameter;
-} else gctx.toolDiameter = 1.75
+if(program.tooldiameter) gctx.toolDiameter = program.tooldiameter;
 
 if(program.positive) {
 
